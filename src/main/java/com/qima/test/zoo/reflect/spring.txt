@@ -1,0 +1,2 @@
+className=com.qima.test.zoo.reflect.Service2
+methodName=doService2
